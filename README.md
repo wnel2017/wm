@@ -6,7 +6,9 @@
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
       本页面 https://git.io/ogate<br/>
-    </td>
+      推荐谷歌或火狐浏览器<br/>
+      国产浏览器会干扰访问<br/>
+     </td>
   </tr>
   <tr>
     <td align=center>大陆请点击进入<br/>
