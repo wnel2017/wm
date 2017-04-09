@@ -8,7 +8,7 @@
       本页面 https://git.io/ogate<br/>
       推荐谷歌或火狐浏览器<br/>
       国产浏览器会干扰访问<br/>
-     </td>
+    </td>
   </tr>
   <tr>
     <td align=center>大陆用户请点击进入<br/>
