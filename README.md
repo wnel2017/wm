@@ -10,9 +10,7 @@
   </tr>
   <tr>
     <td align=center>大陆请点击进入<br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=ogGit">动态网址一</a><br/>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGit1">动态网址二</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGatezz.htm?from=ogGit2">动态网址三</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogGit">动态网址一</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
@@ -36,8 +34,7 @@
 《网门》揭开网络时代的新视角，引领网络时代的新风尚。<br/>
 《网门》适合手机、平板、电脑等所有网络终端用户。<br/>
 《网门》无需翻墙突破网络封锁，是稳定长效的安全网址。<br/>
-只要把网址保存在手机浏览器书签中，<br/>或保存在电脑浏览器收藏夹中，<br/>
-就可以随时打开《网门》，<br/>
-分享全球菁萃资源。<br/></td>
+只要把网址保存在手机浏览器书签中，或保存在电脑浏览器收藏夹中，<br/>
+就可以随时打开《网门》，分享全球菁萃资源。<br/></td>
   </tr>
 </table>    
