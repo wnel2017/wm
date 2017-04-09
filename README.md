@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td align=center>大陆用户请点击进入<br/>
-      ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">动态网址◆◆</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">◆◆动态网址◆◆</a><br/>
       微信如果提示：停止访问该网页<br/>
       请点击右上角，选择浏览器打开<br/>
     </td>
@@ -20,9 +20,6 @@
   <tr>
     <td align=center>手机用户请安装最新版<br/>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-    </td>
-  </tr>
-  <tr>
     <td align=center>电脑用户请安装最新版<br/>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/opipe</a><br/>
     </td>
