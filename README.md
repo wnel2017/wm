@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td align=center>手机用户请安装最新版<br/>
+    <td align=center>手机用户推荐安装最新版<br/>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
     </td>
   </tr>
