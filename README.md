@@ -29,6 +29,7 @@
   </tr>
   <tr>
     <td align=center>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/ogNews?from=wnel">网门头条</a><br/>
       <a href="https://github.com/ogate/onews/blob/master/README.md?from=wnel">网门新闻</a><br/>
     </td>
   </tr>
