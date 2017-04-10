@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/3tui/master/ogate2.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate2.jpg" /></td>
   </tr>
   <tr>
     <td align=center>网门 網門<br/>
