@@ -29,8 +29,8 @@
   </tr>
   <tr>
     <td align=center>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
-      <a href="https://github.com/ogate/onews/blob/master/README.md?from=wnel">网门新闻</a><br/>
+      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条：网门看世界</a><br/>
+      <a href="https://github.com/ogate/onews/blob/master/README.md?from=wnel">网门新闻：全球都在看网门</a><br/>
     </td>
   </tr>
   <tr>
