@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <td align=center>电脑用户请安装最新版<br/>
+    <td align=center>电脑用户请下载最新版<br/>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/opipe</a><br/>
     </td>
   </tr>
