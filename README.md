@@ -3,7 +3,8 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
   </tr>
   <tr>
-    <td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
+   <td align=center>免费 安全 快速 绿色 保护上网隐私<br/>
+   <td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
       推荐谷歌或火狐浏览器<br/>
       国产浏览器会干扰访问<br/>
     </td>
