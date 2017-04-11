@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">◆网门头条◆网门看精彩世界</a><br/>
+      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
     </td>
   </tr>
   <tr>
