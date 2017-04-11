@@ -3,7 +3,7 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
   </tr>
   <tr>
-   <td align=center>免费 安全 快速 绿色<br/>
+   <td align=center>◆免费  ◆安全  ◆快速  ◆绿色<br/>
        </td>
   </tr>
   <tr>
