@@ -14,14 +14,13 @@
   </tr>
   <tr>
     <td align=center><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">►►大陆用户请点击进入动态网址◄◄</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆用户请点击进入动态网址</a><br/>
       微信如果提示：停止访问该网页<br/>
       请点击右上角，选择浏览器打开<br/>
     </td>
   </tr>
   <tr>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-    </td>
   </tr>
   <tr>
     <td align=center>
