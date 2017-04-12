@@ -47,7 +47,7 @@
 就可随时上《网门》浏览全球精粹资源<br/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%8C%87%E5%8D%973.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%8C%87%E5%8D%972.jpg"/></td>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%8C%87%E5%8D%971.jpg"/></td>
