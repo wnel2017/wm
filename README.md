@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align=center>
-    如打开慢，缓冲稍等或刷新<br/>
+如打开慢，缓冲稍等或刷新<br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
@@ -22,7 +22,7 @@
   </tr>
   <tr>
       <td align=center>
-      2017网民翻墙最人气软件<br/>
+2017网民翻墙最人气软件<br/>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
   </tr>
   <tr>
