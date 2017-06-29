@@ -5,9 +5,9 @@
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
 推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
-<a href="https://chrome.cn.uptodown.com/androidl">谷歌安卓版、 </a>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
        </td>
   </tr>
@@ -32,11 +32,10 @@
   </tr>
   <tr>
       <td align=center>
-2017网民翻墙最人气软件<br/>
+2017年网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-下载安卓版更快更方便<br/>
-<a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel l">全球翻墙软件、浏览器大全</a>
-</tr>
+下载网门安卓版更快更方便<br/>
+  </tr>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
