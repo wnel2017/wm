@@ -40,7 +40,7 @@ https://git.io/ogate <br/>
   <tr>
   <td align=center>无界浏览（安卓免费VPN）<br/>
   https://git.io/v6836
-  <a target="_blank" href="https://git.io/vEJlj">请同时下载安装</a><br/>
+  <a target="_blank" href="https://git.io/vEJlj">下载</a><br/>
   </tr>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
