@@ -12,7 +12,9 @@
        </td>
   </tr>
   <tr>
-<td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
+<td align=center>网门 網門<br/>
+欢迎来到固定页面，请收藏浏览器<br/>
+https://git.io/ogate <br/>
   </tr>
   <tr>
     <td align=center>
