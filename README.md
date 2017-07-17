@@ -4,9 +4,10 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQogU<br/>
-◆翻墙永久网址：https://git.io/ogate （请收藏）<br/>
-本页如遇打不开，请复制上面网址到谷歌浏览器<br/>
-苹果用户请直接复制到苹果自带Safari浏览器打开<br/>
+◆翻墙永久网址：https://git.io/ogate <br/>
+（请收藏）<br/>
+本页如打不开，请输入上面网址到谷歌浏览器<br/>
+苹果用户请输入网址到苹果Safari浏览器打开<br/>
 中国网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
