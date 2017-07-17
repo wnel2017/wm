@@ -4,11 +4,10 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQogU<br/>
-❤翻墙永久网址：https://git.io/ogate <br/>
-（请收藏）<br/>
+❤翻墙：https://git.io/ogate （请收藏）<br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
-中国网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
+网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
 <a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
